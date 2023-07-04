@@ -7,13 +7,13 @@ Skills practiced/reviewed:
 
 - Basic HTML tags excluding boilerplate:
 
-  - <p></p>
-  - <a></a>
-  - <h1></h1> ...
-  - <img/>
-  - <ol></ol>
-  - <ul></ul>
-  - <li></li>
+  - p
+  - a
+  - h1,h2 ...
+  - img
+  - ul
+  - ol
+  - li
 
 - Git practices:
 
