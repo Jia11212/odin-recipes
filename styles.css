@@ -1,0 +1,24 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+
+ul,
+ol {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+
+li {
+  padding-bottom: 20px;
+}
+
+li a {
+  text-decoration: none;
+  font-size: 24px;
+  color: #f8f0e3;
+}
